@@ -1,5 +1,5 @@
 # GUI_Python_Projects
 
-1.Password_Manager_Tkinter
+<h3>1 . Password Manager Tkinter</h3>
 
-2.Snake_Game_Trutle
+<h3>2 . Snake Game Trutle</h3>
